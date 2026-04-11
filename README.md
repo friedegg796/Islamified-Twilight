@@ -13,21 +13,21 @@ The Modrinth link (This is for people on Github) is [here](https://modrinth.com/
 
 Ok so like free good deeds, cuz it prevents the entirity of the Twilight Forest from playing Music (To my knowledge), and it reconciles with the Muslims (No fighting over if Minecraft is Halal or not is what I intend with this pack)
 
-### No I mean like why make it seperate from Islamicraft
+### I mean like why make it seperate from Islamicraft?
 
 Moudularity, Islamicraft is QUITE the heafty pack, is it not?
 
 Also ensures atleast SOMETHING survives if (and may Allah not have this happen—say Ameen!) the Islamicraft pack is deleted.
 
 
-## Hey! (Insert thing here) isn't Haram!
+## (Insert thing here) isn't Haram!
 
 Just because the pack explodes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes)
 
-### Hmm, could I like put your Resourcepack into MY modpack?
+### Could I put your Resourcepack into MY modpack?
 Read the [License](https://github.com/friedegg796/Islamified-Twilight?tab=License-1-ov-file)
 
-### So like I found out that something doesn't work in your pack gerrr/hmm I wanna know something
+### Something doesn't work in your pack gerrr/hmm I wanna know something
 Make an [issue](https://github.com/friedegg796/Islamified-Twilight/issues), I'll check it inshaAllah.
 
 ## Credits
