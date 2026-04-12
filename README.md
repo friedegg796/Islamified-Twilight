@@ -29,8 +29,15 @@ Just because the pack explodes it doesn't mean nessecarily it is Haram, but it m
 ### Could I put your Resourcepack into MY modpack?
 Read the [License](https://github.com/friedegg796/Islamified-Twilight?tab=License-1-ov-file)
 
+
 ### Something doesn't work in your pack gerrr/hmm I wanna know something
 Make an [issue](https://github.com/friedegg796/Islamified-Twilight/issues), I'll check it inshaAllah.
+
+### How do I install this...
+
+On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
+
+On Github you install the zip, unzip it, and then do the above.
 
 ## Credits
 
