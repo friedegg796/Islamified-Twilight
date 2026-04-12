@@ -4,6 +4,8 @@ Makes The Twilight Forest a bit more Halal, intended to be used with the Islamic
 
 Removes the faces of the Twilight Mobs, removes any references to "magic", and (SHOULD HAVE) obliterated the Music in both the background and Music Discs.
 
+Also added a few reminders to the tips (The ones I saw as just useless, that is).
+
 The Github repo containing this (Yes I put it in a Github repo I don't really know where else to put it) can be found [here](https://github.com/friedegg796/Islamified-Twilight)
 
 The Modrinth link (This is for people on Github) is [here](https://modrinth.com/resourcepack/islamified-twilight)
@@ -11,7 +13,7 @@ The Modrinth link (This is for people on Github) is [here](https://modrinth.com/
 
 ## Why?
 
-Ok so like free good deeds, cuz it prevents the entirity of the Twilight Forest from playing Music (To my knowledge), and it reconciles with the Muslims (No fighting over if Minecraft is Halal or not is what I intend with this pack)
+Ok so like free good deeds, cuz it prevents the entirity of the Twilight Forest from playing Music (To my knowledge), having a few reminders (if you can find them), and reconciling with the Muslims (No fighting over if Minecraft is Halal or not is what I intend with these packs)
 
 ### I mean like why make it seperate from Islamicraft?
 

@@ -56,7 +56,7 @@
 "block.minecraft.banner.twilightforest.lich.red": "Red Twilight Monster King Crown",
 "block.minecraft.banner.twilightforest.lich.white": "White Twilight Monster King Crown",
 "block.minecraft.banner.twilightforest.lich.yellow": "Yellow Twilight Monster King Crown",
-"block.twilightforest.knight_phantom_boss_spawner": "Twilight Knights' Boss Spawner",
+"block.twilightforest.knight_phantom_boss_spawner": "Twilight Knights Boss Spawner",
 "block.twilightforest.knight_phantom_trophy": "Twilight Knight Trophy",
 "block.twilightforest.lich_boss_spawner": "Twilight Monster King Boss Spawner",
 "block.twilightforest.lich_tower_miniature_structure": "Miniature Twilight Monster King Tower",
@@ -222,6 +222,15 @@
 "twilightforest.book.yeticave.2": "causing such an effect.\n\n§8[[Next entry]]§0\n\nThe blizzard seems to be of a type too powerful for one being alone to produce. Several working in combination would be necessary. If one stopped",
 "twilightforest.book.yeticave.3": "contributing, the blizzard would calm. Strangely, my divinations do not show signs of anyone who could have caused this. Although, I did see something interesting in one of the nearby pointy-roofed towers...",
 
+
+
+
+"twilightforest.tips.experiment_115": "Did you do your Salah yet? (If you're allowed to by Islamic law, that is)",
+"twilightforest.tips.druid_hut": "Twilight Gardener Huts sometimes have hidden basements.",
+"twilightforest.tips.hollow_oak_sapling": "Saplings that grow into giant hollow trees can be found in Twilight Gardener Huts.",
+"twilightforest.tips.kobold": "Islam is that you should testify that there is no deity worthy of worship except Allah and that Muhammad is His Messenger (ﷺ), that you should perform salah, pay the zakah, fast during Ramadan, and perform Hajj (pilgrimage) to the Ka`bah if you can find a way (or find the means for making the journey) to it.",
+"twilightforest.tips.naga": "The Naga can be stunned by making it ram something hard(Like a shield)!",
+"twilightforest.tips.torchberries": "Ihsan is that you should serve Allah as if you could see Him, for though you cannot see Him, He sees you.",
 "twilightforest.tips.block_and_chain": "Enknowledging a Block and Chain with Destruction allows it to break blocks.",
 "twilightforest.tips.boggard": "What is a Boggard?",
 "twilightforest.tips.burnt_thorns": "Burnt Thorns disintegrate when stepped on.",
