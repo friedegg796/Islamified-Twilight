@@ -2,16 +2,17 @@
 
 Makes The Twilight Forest more clearly Halal, intended to be used with the Islamicraft Resourcepack.
 
-Removes the faces of the Twilight Mobs, removes any references to "magic", and (SHOULD HAVE) obliterated the Music in both the background and Music Discs.
+Removes the faces of the Twilight Mobs, removes any references to "magic", and (SHOULD HAVE) removed the Music in both the background and Music Discs.
 
-Also added a few reminders to the tips (The ones I saw as just useless, that is).
+Also made some of the Twilight Tips be reminders instead.
 
 The Github repo containing this (Yes I put it in a Github repo I don't really know where else to put it) can be found [here](https://github.com/friedegg796/Islamified-Twilight)
 
-The Modrinth link (This is for people on Github) is [here](https://modrinth.com/resourcepack/islamified-twilight)
 
+## I got a question/suggestion/problem
+Make an [issue](https://github.com/friedegg796/Islamified-Twilight/issues), I'll check it inshaAllah.
 
-## Why?
+### Why?
 
 Ok so like free good deeds, cuz it prevents the entirity of the Twilight Forest from playing Music (To my knowledge), having a few reminders (if you can find them), and reconciling with the Muslims (No fighting over if Minecraft is Halal or not is what I intend with these packs)
 
@@ -22,16 +23,12 @@ Moudularity, Islamicraft is QUITE the heafty pack, is it not?
 Also ensures atleast SOMETHING survives if (and may Allah not have this happen—say Ameen!) the Islamicraft pack is deleted.
 
 
-## (Insert thing here) isn't Haram!
+### (Insert thing here) isn't Haram!
 
-Just because the pack explodes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes)
+Just because the pack changes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes)
 
 ### Could I put your Resourcepack into MY modpack?
 Read the [License](https://github.com/friedegg796/Islamified-Twilight?tab=License-1-ov-file)
-
-
-### Something doesn't work in your pack gerrr/hmm I wanna know something
-Make an [issue](https://github.com/friedegg796/Islamified-Twilight/issues), I'll check it inshaAllah.
 
 ### How do I install this...
 
@@ -44,3 +41,8 @@ On Github you install the zip, unzip it, and then do the above.
 [The Twilight Forest](https://github.com/TeamTwilight/twilightforest/tree/1.21.x) for giving the original textures, licensed under their [Asset License](https://github.com/TeamTwilight/twilightforest/blob/1.21.x/ASSET_LICENSE) 
 
 I removed the faces of most of, if not all, of the textures I used from Twilight Forest.
+
+
+#### Disclaimer
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
