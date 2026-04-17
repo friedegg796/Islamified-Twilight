@@ -1,6 +1,6 @@
 # Islamified Twilight
 
-Makes The Twilight Forest more clearly Halal, intended to be used with the Islamicraft Resourcepack (Vanillan version, the main one already has this)
+Makes The Twilight Forest more clearly Halal, intended to be used with the Islamicraft Resourcepack.
 
 Removes the faces of the Twilight Mobs, removes any references to "magic", and (SHOULD HAVE) obliterated the Music in both the background and Music Discs.
 
