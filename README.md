@@ -1,47 +1,46 @@
+[![Sparked Hosting logo affiliate link](https://cdn.modrinth.com/data/cached_images/415da92d53eb3bb404b5dd29fe8379421e3bce1e.png)
+](https://billing.sparkedhost.com/aff.php?aff=3242) 
+
+_This image has an affiliate link, aka I can get a commission (MONEY for me at no expense to you) if you purchase through this link. So if you wanna support me, and get a neat little server for Minecraft, click the image!_
+
+
 # Islamified Twilight
 
-Makes The Twilight Forest more clearly Halal, intended to be used with the Islamicraft Resourcepack.
+Makes The Twilight Forest clearly Halal, intended to be used with the Muslimcraft Resourcepack.
 
 Removes the faces of the Twilight Mobs, removes any references to "magic", and (SHOULD HAVE) removed the Music in both the background and Music Discs.
 
-Also made some of the Twilight Tips be reminders instead.
+Also made some of the Twilight Tips be Islamic reminders instead.
 
-The Github repo containing this (Yes I put it in a Github repo I don't really know where else to put it) can be found [here](https://github.com/friedegg796/Islamified-Twilight)
+The Github repository containing this can be found [here](https://github.com/friedegg796/Islamified-Twilight)
 
 
-## I got a question/suggestion/problem
+## Questions/Suggestions/Problems
+
 Make an [issue](https://github.com/friedegg796/Islamified-Twilight/issues), I'll check it inshaAllah.
-
-### Why?
-
-Ok so like free good deeds, cuz it prevents the entirity of the Twilight Forest from playing Music (To my knowledge), having a few reminders (if you can find them), and reconciling with the Muslims (No fighting over if Minecraft is Halal or not is what I intend with these packs)
-
-### I mean like why make it seperate from Islamicraft?
-
-Moudularity, Islamicraft is QUITE the heafty pack, is it not?
-
-Also ensures atleast SOMETHING survives if (and may Allah not have this happen—say Ameen!) the Islamicraft pack is deleted.
-
 
 ### (Insert thing here) isn't Haram!
 
 Just because the pack changes it doesn't mean nessecarily it is Haram, but it may be something that is viewed as Haram (Or may have been changed to fit other changes)
 
-### Could I put your Resourcepack into MY modpack?
+### Could I use your Resourcepack in MY modpack?
 Read the [License](https://github.com/friedegg796/Islamified-Twilight?tab=License-1-ov-file)
 
-### How do I install this...
+If you are on Modrinth read their TOS as well.
+
+### How do I install...
 
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On Github you install the zip, unzip it, and then do the above.
+On [Github](https://github.com/friedegg796/Islamified-Twilight) you install the zip, unzip it, and then do the above (Unreleased versions)
+
+Or look for the named zip file in [releases](https://github.com/friedegg796/Islamified-Twilight/releases).
 
 ## Credits
 
 [The Twilight Forest](https://github.com/TeamTwilight/twilightforest/tree/1.21.x) for giving the original textures, licensed under their [Asset License](https://github.com/TeamTwilight/twilightforest/blob/1.21.x/ASSET_LICENSE) 
 
 I removed the faces of most of, if not all, of the textures I used from Twilight Forest.
-
 
 #### Disclaimer
 
