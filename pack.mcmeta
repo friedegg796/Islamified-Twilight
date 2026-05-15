@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 4,
-        "description": "Twilight Forest, Islamified",
+        "pack_format": 34,
+        "description": "Twilight Forest, now clearly halal",
         "supported_formats":
         {
-         "min_inclusive": 42,
+         "min_inclusive": 34,
          "max_inclusive": 88
         }
     }
